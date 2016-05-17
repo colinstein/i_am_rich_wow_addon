@@ -1,0 +1,11 @@
+## Interface: 60200
+## Title: I Am Rich
+## Note: Proves your rich because this addon costs $500
+## Author: Colin
+## Version: 1.0.0
+
+i_am_rich_wow_addon.xml
+
+# Hark, another poem
+# It's unique to this version
+# Knock-offs will lack it
